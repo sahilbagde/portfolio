@@ -1,0 +1,77 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "HTML 5, CSS ,Tailwind CSS , Bootstrap , JavaScript , React"
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Core Java, Advanced Java,My SQL , Spring , Spring Boot , Spring MVC,Hibernate, "
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": " Soft Skills",
+      "description": "Problem Solving , Creativity , Team Work , Project Management , Adaptability"
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": " Other skills ",
+      "description": "GitHub, Project Deployment "
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Shoes Website",
+      "description": "Creating a captivating description for your shoes website involves more than just listing products. It should invite customers into a world where their needs and desires are met with style and comfort. Here's a sample description for your shoes website",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "App Dashboard",
+      "description": "A login page is a straightforward page with clear labels for email and password,and a button to Login Now. Some login pages also include a social login option, and a link to password recovery ",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Website ",
+      "description": "Footwear Website, ARC Website, Letter-Craft Design Website, Login Page Reaction Tools: HTML, CSS, JavaScript, Bootstrap, ReactJS, Totally Responsive ",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/ARCIMG.jpeg",
+      "description": "Arc Technologies and Institutions Nagpur Completed – Full Stack Java Developer     ",
+      "author_name": "",
+      "author_designation": ""
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/Internship2.png",
+      "description": "I have Completed my internship in the Sajal Technologies PVT. LTD.",
+      "author_name": "",
+      "author_designation": ""
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/rtmnu-2.png",
+      "description": "I have Completed My Bachelor of Engineering Rashtrasant Tukadoji Maharaj University ",
+      "author_name": "",
+      "author_designation": ""
+    }
+  ]
+}
